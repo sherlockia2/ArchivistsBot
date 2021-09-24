@@ -1,10 +1,4 @@
 {
    "name":"gdrive-searchbot",
-   "stack":"container",
-   "env":{
-      "ENV":{
-         "description":"Setting this to ANYTHING will enable Webhooks when in env mode",
-         "value":"ANYTHING"
-      }
-   }
+   "stack":"container"
 }
